@@ -56,20 +56,6 @@ CREATE TABLE dados (
 
 Cada execução do scraper adiciona novos registros.
 
-🧩 Possíveis Extensões
-
-Você pode evoluir esse projeto adicionando:
-
-Scrapy (framework avançado de scraping)
-
-Armazenamento em PostgreSQL
-
-Dashboard usando Streamlit
-
-Exportação para CSV, Excel ou API REST
-
-💼 Ideal Para Portfólio
-
 Esse projeto demonstra:
 
 ✔ domínio de Python
